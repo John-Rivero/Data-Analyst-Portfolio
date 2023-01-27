@@ -13,7 +13,7 @@
 - Create a PostgreSQL database:
 
 
-    [![1 SQL Create_Table](https://user-images.githubusercontent.com/81208412/215169768-bbb21b01-a507-4dbc-97b2-af087b54fa33.jpg)](https://github.com/John-Rivero/Data-Analyst-Portfolio/blob/main/Coutries'%20Yearly%20GDP%201960-2021/1.SQL%20Create_Table.jpg)
+    [![1 SQL Create_Table](https://user-images.githubusercontent.com/81208412/215169768-bbb21b01-a507-4dbc-97b2-af087b54fa33.jpg)](https://github.com/John-Rivero/Data-Analyst-Portfolio/blob/main/Coutries'%20Yearly%20GDP%201960-2021/1.%20SQL%20GDP%20PostgreSQL.sql)
 
 
 - Visualize the GDP datasets in Tableu:
