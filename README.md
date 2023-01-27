@@ -6,4 +6,6 @@
 - An Analysis of datasets of countries' yearly GDP, starting from the year 1960 - 2021
 
 - Create a PostgreSQL database:
+
+
   -![1 SQL Create_Table](https://user-images.githubusercontent.com/81208412/215169768-bbb21b01-a507-4dbc-97b2-af087b54fa33.jpg)
