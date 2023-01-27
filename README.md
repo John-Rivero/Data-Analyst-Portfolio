@@ -7,6 +7,12 @@
 
 - Countries' GDP datasets are obtained from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 
+    - Objectives:
+    
+        - Create a PostgreSQL Database
+        - Visualize the GDP datasets in Tableu
+        - Create a Python code to get necessary information depending on the user's input
+
     [![2  GDP SPreedsheet Image](https://user-images.githubusercontent.com/81208412/215185311-e224907a-f633-46bc-ad06-f31b51531f30.jpg)](https://github.com/John-Rivero/Data-Analyst-Portfolio/blob/main/Coutries'%20Yearly%20GDP%201960-2021/2.%20GDP%20Spreedsheet.csv)
   
 
