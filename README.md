@@ -20,3 +20,8 @@
 
 
     [![4  Tableu Countries' GDP Visualization](https://user-images.githubusercontent.com/81208412/215183711-3d7d64db-fa96-45fb-ae35-00b8b3c8e029.jpg)](https://public.tableau.com/app/profile/john.r6470/viz/CountriesYearlyGDP1960-2021/Dashboard1)
+
+
+- Create a Python code to get necessary information depending on the user's input
+
+    -In progress
