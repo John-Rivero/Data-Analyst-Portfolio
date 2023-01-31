@@ -8,9 +8,6 @@
 - Countries' GDP datasets are obtained from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 - Analyze countries' gdp data between the 1960 to 2021.
         - Objectives:
-        
-            - Determine the nation with the highest annual GDP growth.
-
-            - Calculate the proportion of the country with the top GDP relative to the global total.
-
-            - Evaluate the country that has recorded the lowest performance.
+                - Determine the nation with the highest annual GDP growth.
+                - Calculate the proportion of the country with the top GDP relative to the global total.
+                - Evalueate the country that has recorded the lowest performance.
