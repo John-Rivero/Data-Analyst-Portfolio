@@ -9,13 +9,13 @@
 - Analyze countries' gdp data between the 1960 to 2021. <bk>
         
         
-        - Objectives:
+- Objectives:
         
         
-                - Determine the nation with the highest annual GDP growth.
+        - Determine the nation with the highest annual GDP growth.
         
         
-                - Calculate the proportion of the country with the top GDP relative to the global total.
+        - Calculate the proportion of the country with the top GDP relative to the global total.
         
         
-                - Evalueate the country that has recorded the lowest performance.
+        - Evalueate the country that has recorded the lowest performance.
