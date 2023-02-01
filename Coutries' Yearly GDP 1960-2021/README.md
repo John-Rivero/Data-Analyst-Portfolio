@@ -13,8 +13,8 @@ Date: 1/31/2023
 
 
 
-### Ask
+## Ask
 
-- Task: Analyze the GDP data in order to see which countries are best to invest at.
+- Task: Evaluate the Gross Domestic Product (GDP) data to determine the most favorable countries for investment.
 
-
+- Primary Stakeholder: Josh McDonald
