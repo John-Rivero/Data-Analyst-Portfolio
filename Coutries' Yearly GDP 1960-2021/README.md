@@ -1,5 +1,11 @@
 # Countries' yearly GDP Analysis
 
+Author: John Rivero
+
+Date: 1/31/2023
+
+[Tableu Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/CountriesYearlyGDP1960-2021/Dashboard1?publish=yes)
+
 
 
 
