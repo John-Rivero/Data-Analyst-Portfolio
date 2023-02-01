@@ -13,8 +13,15 @@ Date: 1/31/2023
 
 
 
-## Ask
+## 1. Ask
 
-- Task: Evaluate the Gross Domestic Product (GDP) data to determine the most favorable countries for investment.
+ Task: Evaluate the Gross Domestic Product (GDP) data to determine the most favorable countries for investment.
 
-- Primary Stakeholder: Josh McDonald
+ Primary Stakeholder: Josh McDonald
+
+
+## 2. Prepare
+
+Data Source: 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+
+The dataset has 1 CSV file, 66 Columns, and 271 Rows.
