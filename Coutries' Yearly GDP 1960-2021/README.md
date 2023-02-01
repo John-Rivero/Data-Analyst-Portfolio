@@ -29,4 +29,5 @@ The dataset has 1 CSV file, 66 Columns, and 271 Rows.
 ## 2. Process
 
 Examine the data and remove items that are not an actual country under the columns, country_name and country_code. 
+
 ![2  GDP Spreadsheet Image](https://user-images.githubusercontent.com/81208412/215935874-9948644e-5a98-4364-8c5a-a3abe88144d3.jpg)
