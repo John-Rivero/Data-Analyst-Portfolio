@@ -6,7 +6,7 @@
 - This project is an analysis of datasets of countries' yearly GDP, starting from the year 1960 - 2021
 
 - Countries' GDP datasets are obtained from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
-- Analyze countries' gdp data between the 1960 to 2021. <bk>
+- Examine the GDP data of nations from 1960 to 2021.
         
         
 - Objectives:
