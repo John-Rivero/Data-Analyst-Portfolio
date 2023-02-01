@@ -7,10 +7,16 @@
 
 - Countries' GDP datasets are obtained from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 - Examine the GDP data of nations from 1960 to 2021.
+
+- SQL Objectives:
+
+        - Create a PSQL table to import GDP datasets from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD).
+
+- Python Objectives:
+
+        - Write a Python script that outputs desired information from the GDP datasets in PostgreSQL.
         
-        
-- Objectives:
-        
+- Tableu Objectives:
         
         - Present a yearly GDP report for all countries from 1960 to 2021.
         
