@@ -25,3 +25,7 @@ Date: 1/31/2023
 Data Source: 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 
 The dataset has 1 CSV file, 66 Columns, and 271 Rows.
+
+## 2. Process
+
+Examine the data and remove items that are not an actual country under the columns, country_name and country_code. 
