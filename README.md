@@ -10,7 +10,7 @@
 
 - SQL Objectives:
 
-        - Create a PSQL table to import GDP datasets from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD).
+        - Create a PSQL table to import GDP datasets from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 
 - Python Objectives:
 
