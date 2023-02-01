@@ -30,6 +30,7 @@ The dataset has 1 CSV file, 66 Columns, and 271 Rows.
 
 - Create a table in PostgreSQL to examine the GDP data 
 
+![2  Create PSQL Table](https://user-images.githubusercontent.com/81208412/215952472-fb835bc7-f317-4db5-be80-bbb07b0c0350.jpg)
 
 
 - Clean the data using SQL commands within PostgreSQL
