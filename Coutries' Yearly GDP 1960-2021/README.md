@@ -28,4 +28,4 @@ The dataset has 1 CSV file, 66 Columns, and 271 Rows.
 
 ## 3. Process
 
-Examine the data and remove items that are not an actual country under the columns, country_name and country_code. 
+Examine the GDP data and clean the data using SQL commands within PostgreSQL
