@@ -12,10 +12,12 @@
 - Objectives:
         
         
-        - Determine the nation with the highest annual GDP growth.
+        - Present a yearly GDP report for all countries from 1960 to 2021.
         
         
-        - Calculate the proportion of the country with the top GDP relative to the global total.
+        - Display the top 10 nations with the highest GDP.
         
         
-        - Evalueate the country that has recorded the lowest performance.
+        - Display the total GDP of all countries.
+        
+        - Present the percentage of each country's GDP within a given year.
