@@ -14,10 +14,8 @@
         
         - Present a yearly GDP report for all countries from 1960 to 2021.
         
-        
         - Display the top 10 nations with the highest GDP.
-        
-        
+            
         - Display the total GDP of all countries.
         
         - Present the percentage of each country's GDP within a given year.
