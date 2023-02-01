@@ -8,20 +8,20 @@
 - Countries' GDP datasets are obtained from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 - Examine the GDP data of nations from 1960 to 2021.
 
-- SQL Objectives:
+## SQL Objectives:
 
-        - Create a PSQL table to import GDP datasets from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+- Create a PSQL table to import GDP datasets from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 
-- Python Objectives:
+## Python Objectives:
 
-        - Write a Python script that outputs desired information from the GDP datasets in PostgreSQL.
+- Write a Python script that outputs desired information from the GDP datasets in PostgreSQL.
         
-- Tableu Objectives:
+## Tableu Objectives:
         
-        - Present a yearly GDP report for all countries from 1960 to 2021.
+- Present a yearly GDP report for all countries from 1960 to 2021.
         
-        - Display the top 10 nations with the highest GDP.
+- Display the top 10 nations with the highest GDP.
             
-        - Display the total GDP of all countries.
+- Display the total GDP of all countries.
         
-        - Present the percentage of each country's GDP within a given year.
+- Present the percentage of each country's GDP within a given year.
