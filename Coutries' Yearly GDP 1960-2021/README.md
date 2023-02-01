@@ -26,7 +26,7 @@ Data Source: 61 years (1960 to 2021) from [The World Bank](https://data.worldban
 
 The dataset has 1 CSV file, 66 Columns, and 271 Rows.
 
-## 2. Process
+## 3. Process
 
 Examine the data and remove items that are not an actual country under the columns, country_name and country_code. 
 
