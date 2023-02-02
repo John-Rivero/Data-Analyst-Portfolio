@@ -33,6 +33,6 @@ The dataset has 1 CSV file, 66 Columns, and 271 Rows.
 ![2  Create PSQL Table](https://user-images.githubusercontent.com/81208412/215952472-fb835bc7-f317-4db5-be80-bbb07b0c0350.jpg)
 
 
-- Clean the data using SQL commands.
+- Some rows contain items that are not an actual name of a country.  SQL commands are used for this part in order to remove these unecessary information and clean the data.
 
 ![2  Clean Spreadsheet](https://user-images.githubusercontent.com/81208412/215950151-f5c9405f-4944-4e85-bfea-9d7a43e734b3.jpg)
