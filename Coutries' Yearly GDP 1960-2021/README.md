@@ -31,7 +31,7 @@ The dataset has 1 CSV file, 66 Columns, and 271 Rows.
 
 ## 3. Process
 
-- Create a table in PostgreSQL in order to import the GDP's .csv file to examine the data.
+- A table was created within PostgreSQL in order to import the GDP's .csv file and examine the data.
 
 ![2  Create PSQL Table](https://user-images.githubusercontent.com/81208412/215952472-fb835bc7-f317-4db5-be80-bbb07b0c0350.jpg)
 
