@@ -9,13 +9,13 @@ Date: 1/31/2023
 
 ## Scenario
 
-- An investor named Josh McDonald who is looking to expand his investment portfolio and is interested in investing in countries with a strong history of Gross Domestic Product (GDP) growth and stability. He has decided to use analytic data to identify which countries are the best to invest based on their GDP history.
+- An investor named Josh McDonald who is looking to expand his investment portfolio and is interested in investing in countries with a strong history of Gross Domestic Product (GDP) growth for the past 10 years. He has decided to use data analytic to identify which countries are the best to invest based on their 10 years GDP history.
 
 
 
 ## 1. Ask
 
- Task: Evaluate the Gross Domestic Product (GDP) data to determine the most favorable countries for investment.
+ Task: Evaluate the Gross Domestic Product (GDP) data for the past 10 years to determine the most favorable countries for investment.
 
  Primary Stakeholder: Josh McDonald
 
