@@ -26,6 +26,9 @@ Data Source: 61 years (1960 to 2021) from [The World Bank](https://data.worldban
 
 The dataset has 1 CSV file, 66 Columns, and 271 Rows.
 
+
+![1  GDP spreadsheet image](https://user-images.githubusercontent.com/81208412/216237950-c9e77354-7126-44cc-9ea1-a8f8fbcf043f.jpg)
+
 ## 3. Process
 
 - Create a table in PostgreSQL in order to import the GDP's .csv file to examine the data.
