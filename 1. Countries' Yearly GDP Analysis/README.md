@@ -67,5 +67,7 @@ Based on the data, the United States is the most attractive country for investme
 
 [10 countries with the greatest combined GDP over a period of 10 years presentation in Tableau](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunities_/Story1)
 
+![Story 1](https://user-images.githubusercontent.com/81208412/219599366-ddc5edb8-797a-4c11-8cdf-b305d899cd9e.png)
+
 
 
