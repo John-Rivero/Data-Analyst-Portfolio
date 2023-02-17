@@ -25,7 +25,7 @@ Date: 1/31/2023
 Data Source 1: (GDP) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
                The GDP dataset has 1 CSV file, 68 Columns, and 271 Rows.
               
-![2  GDP Spreadsheet Image](https://user-images.githubusercontent.com/81208412/219589204-fb67187a-70e5-4823-a29a-8165da4acaa7.jpg)(https://github.com/John-Rivero/Data-Analyst-Portfolio/blob/main/1.%20Countries'%20Yearly%20GDP%20Analysis/1.%20Prepare%20CSV%20files/1.%20GDP.csv)
+![2  GDP Spreadsheet Image](https://user-images.githubusercontent.com/81208412/219589204-fb67187a-70e5-4823-a29a-8165da4acaa7.jpg)
 
               
 Data Source 2: (Inflation) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG)
@@ -36,11 +36,16 @@ Data Source 2: (Inflation) 61 years (1960 to 2021) from [The World Bank](https:/
 
 ## 3. Process
 
-- A table was created within PostgreSQL in order to import the GDP's .csv file and examine the data.
+The CSV files containing GDP and inflation data have been extensively cleaned and are now prepared for import into an SQL server for further analysis.
 
-![2  Create PSQL Table](https://user-images.githubusercontent.com/81208412/215952472-fb835bc7-f317-4db5-be80-bbb07b0c0350.jpg)
+![2  GDP Processed Image](https://user-images.githubusercontent.com/81208412/219591776-81e8f5b6-1acd-40bc-a64d-d3a4631c9f2f.jpg)
+
+![2  Inflation Processed Image](https://user-images.githubusercontent.com/81208412/219591804-b046cd5c-70dc-4ea0-8504-e64a9b78598f.jpg)
 
 
-- Some rows contain items that are not an actual name of a country.  SQL commands are used for this part in order to remove these unecessary information and clean the data.
+- Tables have been created for both inflation and GDP data to facilitate the import of the cleaned CSV files.
 
-![2  Clean Spreadsheet](https://user-images.githubusercontent.com/81208412/215950151-f5c9405f-4944-4e85-bfea-9d7a43e734b3.jpg)
+![3  Create GDP Table](https://user-images.githubusercontent.com/81208412/219590392-a0a8ad2d-d2be-430d-af65-6019a8a277b2.jpg)
+
+![3  Create Inflation Table](https://user-images.githubusercontent.com/81208412/219590422-f0128f1f-43a6-44c9-827d-2e6ac33312b8.jpg)
+
