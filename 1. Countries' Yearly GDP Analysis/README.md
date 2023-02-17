@@ -7,20 +7,15 @@ Date: 2/17/2023
 [Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
 
 [Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesStory_/Story1)
-\\
-
-
-
-
-
 
 
 *The case study follows the six step data analysis process.*
 
 ## [Ask](#1-Ask)
 ## [Prepare](#2-Prepare)
-
-
+## [Process](#3-Process)
+## [Analyze](#4-Analyze)
+## [Share](#5-Share)
 
 
 ## Scenario
