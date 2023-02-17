@@ -54,3 +54,5 @@ The CSV files containing GDP and inflation data have been extensively cleaned an
 
 An SQL query is used to identify the top 10 countries with the highest combined GDP over a 10-year period, as well as the average inflation rate during that same time frame.
 
+![1  Analyze 10 highest total gdp](https://user-images.githubusercontent.com/81208412/219596265-bf9a2eb8-543b-4634-98ab-519407eac566.jpg)
+
