@@ -2,7 +2,7 @@
 
 Author: John Rivero
 
-Date: 2/17/2023
+Date: February 17, 2023
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
 
