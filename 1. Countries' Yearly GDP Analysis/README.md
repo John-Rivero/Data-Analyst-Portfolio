@@ -7,7 +7,7 @@ Date: 2/17/2023
 [Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
 [Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesStory_/Story1)
 
-[Go to Real Cool Heading section](## 3. Process)
+[Go to Real Cool Heading section] (# 3. Process)
 
 ## Scenario
 
