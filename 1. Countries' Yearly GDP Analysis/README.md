@@ -7,7 +7,7 @@ Date: 2/17/2023
 [Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
 [Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesStory_/Story1)
 
-[Go to Real Cool Heading section] (# 3. Process)
+[Go to Real Cool Heading section](#real-cool-heading)
 
 ## Scenario
 
@@ -74,4 +74,4 @@ Based on the data, the United States is the most attractive country for investme
 ![Story 1](https://user-images.githubusercontent.com/81208412/219599366-ddc5edb8-797a-4c11-8cdf-b305d899cd9e.png)
 
 
-
+#Real Cool Heading
