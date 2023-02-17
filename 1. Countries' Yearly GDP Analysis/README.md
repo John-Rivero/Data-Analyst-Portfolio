@@ -52,7 +52,7 @@ Date: February 17, 2023
 
 ## 3. Process
 
-The CSV files containing GDP and inflation data have been extensively cleaned and are now prepared for import into an SQL server for further analysis.
+- The CSV files containing GDP and inflation data have been extensively cleaned and are now prepared for import into an SQL server for further analysis.
 
 ![2  GDP Processed Image](https://user-images.githubusercontent.com/81208412/219591776-81e8f5b6-1acd-40bc-a64d-d3a4631c9f2f.jpg)
 
@@ -68,7 +68,7 @@ The CSV files containing GDP and inflation data have been extensively cleaned an
 
 ## 4. Analyze
 
-An SQL query is used to identify the top 10 countries with the highest combined GDP over a 10-year period, as well as the average inflation rate during that same time frame.
+- An SQL query is used to identify the top 10 countries with the highest combined GDP over a 10-year period, as well as the average inflation rate during that same time frame.
 
 ![1  Analyze 10 highest total gdp](https://user-images.githubusercontent.com/81208412/219596265-bf9a2eb8-543b-4634-98ab-519407eac566.jpg)
 
