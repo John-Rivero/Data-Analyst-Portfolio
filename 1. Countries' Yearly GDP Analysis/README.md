@@ -50,10 +50,22 @@ The CSV files containing GDP and inflation data have been extensively cleaned an
 ![3  Create Inflation Table](https://user-images.githubusercontent.com/81208412/219590422-f0128f1f-43a6-44c9-827d-2e6ac33312b8.jpg)
 
 
-## 3. Analyze
+## 4. Analyze
 
 An SQL query is used to identify the top 10 countries with the highest combined GDP over a 10-year period, as well as the average inflation rate during that same time frame.
 
 ![1  Analyze 10 highest total gdp](https://user-images.githubusercontent.com/81208412/219596265-bf9a2eb8-543b-4634-98ab-519407eac566.jpg)
 
 Based on the data, the United States is the most attractive country for investment, with a combined GDP of $209 trillion over a 10-year period and an average inflation rate of 2.20%. China ranks second, with a total GDP of $131.35 trillion and an average inflation rate of 2.61%, followed by Japan in third place with a total GDP of $57.12 trillion and an average inflation rate of 0.51%. Germany comes in fourth place with a GDP of $41.43 trillion and an average inflation rate of 1.58%. Lastly, the country with the best investment potential is the United Kingdom, with a GDP of $31.12 trillion and an inflation rate of 2.16%.
+
+
+## 5. Share
+
+[GDP and Inflation Analysis Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
+
+![Dashboard 1](https://user-images.githubusercontent.com/81208412/219598626-c8beecb5-1553-4256-9f6a-640414c91e94.png)
+
+[10 countries with the greatest combined GDP over a period of 10 years presentation in Tableau](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunities_/Story1)
+
+
+
