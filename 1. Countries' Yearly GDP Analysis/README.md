@@ -10,7 +10,7 @@ Date: 2/17/2023
 
 The case study follows the six step data analysis process.
 
-[### Ask](#1-Ask)
+## [Ask](#1-Ask)
 
 
 
