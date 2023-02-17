@@ -2,7 +2,7 @@
 
 Author: John Rivero
 
-Date: 1/31/2023
+Date: 2/17/2023
 
 [Tableu Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/CountriesYearlyGDP1960-2021/Dashboard1?publish=yes)
 
@@ -48,4 +48,11 @@ The CSV files containing GDP and inflation data have been extensively cleaned an
 ![3  Create GDP Table](https://user-images.githubusercontent.com/81208412/219590392-a0a8ad2d-d2be-430d-af65-6019a8a277b2.jpg)
 
 ![3  Create Inflation Table](https://user-images.githubusercontent.com/81208412/219590422-f0128f1f-43a6-44c9-827d-2e6ac33312b8.jpg)
+
+
+## 3. Analyze
+
+An SQL query is used to identify the top 10 countries with the highest combined GDP over a 10-year period, as well as the average inflation rate during that same time frame.
+
+![1  Analyze 10 highest total gdp](https://user-images.githubusercontent.com/81208412/219593256-f446abe0-977d-4410-971a-78e078ca5aec.jpg)
 
