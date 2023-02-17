@@ -5,19 +5,22 @@ Author: John Rivero
 Date: 2/17/2023
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
+
 [Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesStory_/Story1)
 
-[markdown](#1-Ask)
+The case study follows the six step data analysis process.
+
+[###Ask](#1-Ask)
+
+
+
 
 ## Scenario
 
 - An investor named Josh McDonald who is looking to expand his investment portfolio and is interested in investing in countries with a strong history of Gross Domestic Product (GDP) growth for the past 10 years. He has decided to use data analytic to identify which countries are the best to invest based on their 10 years GDP history.
 
 
-The case study follows the six step data analysis process.
-
-
-## 1 Ask
+## 1. Ask
 
  Task: Evaluate the Gross Domestic Product (GDP) data for the past 10 years to determine the top 5 out of 10 most favorable countries for investment.
 
