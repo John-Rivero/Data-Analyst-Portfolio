@@ -56,3 +56,4 @@ An SQL query is used to identify the top 10 countries with the highest combined 
 
 ![1  Analyze 10 highest total gdp](https://user-images.githubusercontent.com/81208412/219596265-bf9a2eb8-543b-4634-98ab-519407eac566.jpg)
 
+Based on the data, the United States is the most attractive country for investment, with a combined GDP of $209 trillion over a 10-year period and an average inflation rate of 2.20%. China ranks second, with a total GDP of $131.35 trillion and an average inflation rate of 2.61%, followed by Japan in third place with a total GDP of $57.12 trillion and an average inflation rate of 0.51%. Germany comes in fourth place with a GDP of $41.43 trillion and an average inflation rate of 1.58%. Lastly, the country with the best investment potential is the United Kingdom, with a GDP of $31.12 trillion and an inflation rate of 2.16%.
