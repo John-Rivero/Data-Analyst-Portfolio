@@ -15,7 +15,7 @@ Date: 1/31/2023
 
 ## 1. Ask
 
- Task: Evaluate the Gross Domestic Product (GDP) data for the past 10 years to determine the five out of 10 most favorable countries for investment.
+ Task: Evaluate the Gross Domestic Product (GDP) data for the past 10 years to determine the top 5 out of 10 most favorable countries for investment.
 
  Primary Stakeholder: Josh McDonald
 
@@ -25,13 +25,14 @@ Date: 1/31/2023
 Data Source 1: (GDP) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
                The GDP dataset has 1 CSV file, 68 Columns, and 271 Rows.
               
-              
+![2  GDP Spreadsheet Image](https://user-images.githubusercontent.com/81208412/219589204-fb67187a-70e5-4823-a29a-8165da4acaa7.jpg)
+
               
 Data Source 2: (Inflation) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG)
                The Inflation dataset has 1 CSV file, 68 Columns, and 271 Rows.
 
+![2  Inflation Spreadsheet Image](https://user-images.githubusercontent.com/81208412/219589224-48e4bad4-e664-418f-ade6-faea432308c3.jpg)
 
-![1  GDP spreadsheet image](https://user-images.githubusercontent.com/81208412/216237950-c9e77354-7126-44cc-9ea1-a8f8fbcf043f.jpg)
 
 ## 3. Process
 
