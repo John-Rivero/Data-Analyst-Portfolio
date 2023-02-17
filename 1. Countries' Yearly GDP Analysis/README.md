@@ -4,7 +4,8 @@ Author: John Rivero
 
 Date: 2/17/2023
 
-[Tableu Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/CountriesYearlyGDP1960-2021/Dashboard1?publish=yes)
+[Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
+[Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesStory_/Story1)
 
 
 ## Scenario
@@ -12,6 +13,8 @@ Date: 2/17/2023
 - An investor named Josh McDonald who is looking to expand his investment portfolio and is interested in investing in countries with a strong history of Gross Domestic Product (GDP) growth for the past 10 years. He has decided to use data analytic to identify which countries are the best to invest based on their 10 years GDP history.
 
 
+The case study follows the six step data analysis process.
+#Real Cool Heading
 
 ## 1. Ask
 
@@ -19,7 +22,7 @@ Date: 2/17/2023
 
  Primary Stakeholder: Josh McDonald
 
-
+#real-cool-heading
 ## 2. Prepare
 
 Data Source 1: (GDP) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
@@ -33,7 +36,7 @@ Data Source 2: (Inflation) 61 years (1960 to 2021) from [The World Bank](https:/
 
 ![2  Inflation Spreadsheet Image](https://user-images.githubusercontent.com/81208412/219589224-48e4bad4-e664-418f-ade6-faea432308c3.jpg)
 
-
+[Go to Real Cool Heading section](#real-cool-heading)
 ## 3. Process
 
 The CSV files containing GDP and inflation data have been extensively cleaned and are now prepared for import into an SQL server for further analysis.
