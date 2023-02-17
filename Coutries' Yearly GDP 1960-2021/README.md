@@ -22,13 +22,13 @@ Date: 1/31/2023
 
 ## 2. Prepare
 
-Data Source: (GDP)61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
-              The GDP dataset has 1 CSV file, 68 Columns, and 271 Rows.
+Data Source 1: (GDP) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+               The GDP dataset has 1 CSV file, 68 Columns, and 271 Rows.
               
               
               
-             (Inflation) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG)
-             The Inflation dataset has 1 CSV file, 68 Columns, and 271 Rows.
+Data Source 2: (Inflation) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG)
+               The Inflation dataset has 1 CSV file, 68 Columns, and 271 Rows.
 
 
 ![1  GDP spreadsheet image](https://user-images.githubusercontent.com/81208412/216237950-c9e77354-7126-44cc-9ea1-a8f8fbcf043f.jpg)
