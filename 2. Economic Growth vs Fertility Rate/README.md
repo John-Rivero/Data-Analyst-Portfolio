@@ -31,7 +31,7 @@ Date: February 19, 2023
 
 ## 1. Ask
 
- - Task: Cconduct an evaluation of Gross Domestic Product (GDP) data and fertility rates of countries from 2010 to 2020, with the aim of determining whether there is a relationship between a country's wealth and its fertility rate.
+ - Task: Cconduct an evaluation of Gross Domestic Product (GDP) data and fertility rates of Asian countries from 2010 to 2020, with the aim of determining whether there is a relationship between a country's wealth and its fertility rate.
 
  - Primary Stakeholder: Genesis Incorporation
 
