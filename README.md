@@ -15,6 +15,6 @@
 ## [2. The Impact of GDP on Fertility Rate: A Quantitative Analysis of National Wealth and Population Growth in R and Visualization in Tableau](https://github.com/John-Rivero/Data-Analyst-Portfolio/tree/main/2.%20Economic%20Growth%20vs%20Fertility%20Rate)
 - This project is an analysis of datasets of countries' yearly GDP and fertility rate, between 2010 - 2020
 
-- In this project, R is employed to examine datasets and determine whether a correlation exists between the rise of GDP and fertility rate in an Asian country.
+- In this project, R is employed to examine datasets and determine whether a correlation exists between GDP and fertility rate.
 
-- Use Tableau to visualize whether a correlation exists between the rise of GDP and fertility rate in an Asian country.
+- Use Tableau to visualize whether a correlation exists between GDP and fertility rate.
