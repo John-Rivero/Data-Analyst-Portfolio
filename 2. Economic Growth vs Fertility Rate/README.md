@@ -26,28 +26,28 @@ Date: February 17, 2023
 
 ## Scenario
 
-- An investor named Josh McDonald who is looking to expand his investment portfolio and is interested in investing in countries with a strong history of Gross Domestic Product (GDP) growth for the past 10 years. He has decided to use data analytic to identify which countries are the best to invest based on their 10 years GDP history.
+- Genesis Incorporation, a private research company, is exploring the relationship between a country's wealth and its fertility rate over the past decade. The company has decided to employ data analytics techniques to analyze a large amount of relevant data, including GDP and demographic information. The research aims to determine whether there is a correlation between the two factors, and the findings could potentially provide valuable insights to policymakers, economists, and demographers.
 
 
 ## 1. Ask
 
- - Task: Evaluate the Gross Domestic Product (GDP) data and inflation rate for the past 10 years to determine the top 5 out of 10 most favorable countries for investment.
+ - Task: Cconduct an evaluation of Gross Domestic Product (GDP) data and fertility rates of countries from 2010 to 2020, with the aim of determining whether there is a relationship between a country's wealth and its fertility rate.
 
- - Primary Stakeholder: Josh McDonald
+ - Primary Stakeholder: Genesis Incorporation
 
 
 ## 2. Prepare
 
 - Data Source 1: (GDP) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
-               The GDP dataset has 1 CSV file, 68 Columns, and 271 Rows.
+               The GDP dataset has 1 CSV file, 65 Columns, and 271 Rows.
               
-![2  GDP Spreadsheet Image](https://user-images.githubusercontent.com/81208412/219589204-fb67187a-70e5-4823-a29a-8165da4acaa7.jpg)
+![GDP](https://user-images.githubusercontent.com/81208412/219961488-cd360e5f-108a-44c1-92a5-631489f7ca28.jpg)
 
-              
-- Data Source 2: (Inflation) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG)
-               The Inflation dataset has 1 CSV file, 68 Columns, and 271 Rows.
+   
+- Data Source 2: (Fertility Rate) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG)
+               The Fertility dataset has 1 CSV file, 65 Columns, and 271 Rows.
 
-![2  Inflation Spreadsheet Image](https://user-images.githubusercontent.com/81208412/219589224-48e4bad4-e664-418f-ade6-faea432308c3.jpg)
+![Inflation](https://user-images.githubusercontent.com/81208412/219961500-d44785b6-e7e3-4c33-914e-99aedeed618a.jpg)
 
 
 ## 3. Process
