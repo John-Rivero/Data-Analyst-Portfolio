@@ -6,9 +6,6 @@ Date: February 19, 2023
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/GDPFertilityRatecorrelation/Dashboard1?publish=yes)
 
-[Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesStory_/Story1)
-
-
 ## The case study follows the six step data analysis process.
 
  [Ask](#1-Ask)
