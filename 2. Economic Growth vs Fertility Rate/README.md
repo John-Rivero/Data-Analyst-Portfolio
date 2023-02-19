@@ -23,7 +23,7 @@ Date: February 19, 2023
 
 ## Scenario
 
-- Genesis Incorporation, a private research company, is exploring the relationship between a country's wealth and its fertility rate over the past decade. The company has decided to employ data analytics techniques to analyze a large amount of relevant data, including GDP and demographic information. The research aims to determine whether there is a correlation between the two factors, and the findings could potentially provide valuable insights to policymakers, economists, and demographers.
+- Genesis Incorporation, a private research company, is exploring the relationship between Asian country's wealth and its fertility rate over the past decade. The company has decided to employ data analytics techniques to analyze a large amount of relevant data, including GDP and demographic information. The research aims to determine whether there is a correlation between the two factors, and the findings could potentially provide valuable insights to policymakers, economists, and demographers.
 
 
 ## 1. Ask
