@@ -41,30 +41,22 @@ Date: February 17, 2023
 - Data Source 1: (GDP) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
                The GDP dataset has 1 CSV file, 65 Columns, and 271 Rows.
               
-![GDP](https://user-images.githubusercontent.com/81208412/219961488-cd360e5f-108a-44c1-92a5-631489f7ca28.jpg)
+![GDP (1)](https://user-images.githubusercontent.com/81208412/219961634-f85f3cd5-63e2-482c-9cec-0db3298dd6be.jpg)
 
    
 - Data Source 2: (Fertility Rate) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG)
                The Fertility dataset has 1 CSV file, 65 Columns, and 271 Rows.
 
-![Inflation](https://user-images.githubusercontent.com/81208412/219961500-d44785b6-e7e3-4c33-914e-99aedeed618a.jpg)
+![Fertility 1](https://user-images.githubusercontent.com/81208412/219961648-5449405f-8561-434d-8f4b-43e433cb4250.jpg)
 
 
 ## 3. Process
 
-- The CSV files containing GDP and inflation data have been extensively cleaned and are now prepared for import into an SQL server for further analysis.
+- The CSV files containing GDP and fertility rate data have been extensively cleaned and are now prepared for import into an R for further analysis.
 
-![2  GDP Processed Image](https://user-images.githubusercontent.com/81208412/219591776-81e8f5b6-1acd-40bc-a64d-d3a4631c9f2f.jpg)
+![GDP](https://user-images.githubusercontent.com/81208412/219961678-8eb2aa4a-1aae-4f50-b745-5684c8eccb60.jpg)
 
-![2  Inflation Processed Image](https://user-images.githubusercontent.com/81208412/219591804-b046cd5c-70dc-4ea0-8504-e64a9b78598f.jpg)
-
-
-- Tables have been created for both inflation and GDP data to facilitate the import of the cleaned CSV files.
-
-![3  Create GDP Table](https://user-images.githubusercontent.com/81208412/219590392-a0a8ad2d-d2be-430d-af65-6019a8a277b2.jpg)
-
-![3  Create Inflation Table](https://user-images.githubusercontent.com/81208412/219590422-f0128f1f-43a6-44c9-827d-2e6ac33312b8.jpg)
-
+![Fertility](https://user-images.githubusercontent.com/81208412/219961689-1f1e71a1-275d-40b5-9e49-ee72e9e48fe8.jpg)
 
 ## 4. Analyze
 
