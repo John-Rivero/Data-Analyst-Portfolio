@@ -1,4 +1,4 @@
-# Top 5 Countries with the Best Investment Potential: An Analysis of GDP and Inflation Rates in SQL and Visualization in Tableau
+# The Impact of GDP on Fertility Rate: A Quantitative Analysis of National Wealth and Population Growth in R and Visualization in Tableau
 
 Author: John Rivero
 
