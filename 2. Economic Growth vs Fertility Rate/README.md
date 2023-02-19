@@ -79,17 +79,16 @@ Lastly, due to incomplete information, conclusive results were not obtained in t
 
 ![Dashboard](https://user-images.githubusercontent.com/81208412/219966678-984210a8-56b2-4cfa-8b80-52d1122c4f08.png)
 
-
-
-[10 countries with the greatest combined GDP over a period of 10 years presentation in Tableau](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesStory_/Story1)
-
-![Story 1](https://user-images.githubusercontent.com/81208412/219680747-99a46b8a-4b79-4211-acaf-43bd795592fb.png)
-
-
 ## 6. Act
 
 Conclusion based on my analysis:
 
-- According to the available data, out of 200+ countries, the United States is the most attractive country for investment, followed by China in second place, Japan in third place, Germany in fourth place, and the United Kingdom in fifth place.
+The relationship between a country's Gross Domestic Product (GDP) and its fertility rate has been the subject of much research and debate over the years. This study, conducted across 47 Asian countries over a ten-year period from 2010 to 2020, provides valuable insights into the relationship between these two variables.
 
-- The United States boasts a GDP of $209 trillion over a 10-year period and an average inflation rate of 2.20%, making it the top choice for investment. China comes in second place with a total GDP of $131.35 trillion and an average inflation rate of 2.61%. Japan has a total GDP of $57.12 trillion and an average inflation rate of 0.51%, placing it in third position. Germany has a GDP of $41.43 trillion and an average inflation rate of 1.58%, making it the fourth best country for investment. Lastly, the United Kingdom has a GDP of $31.12 trillion and an inflation rate of 2.16%, securing its position as the fifth best country for investment.
+The findings reveal that there is a negative correlation between GDP and fertility rate in the majority of the countries studied. Specifically, 29 of the 47 countries demonstrated a negative correlation, meaning that as a country's GDP increases, its fertility rate decreases. This trend has been observed in various regions around the world and has been attributed to factors such as improved access to family planning and education for women, which result in a decrease in the number of children per family.
+
+However, there are also countries where the relationship between GDP and fertility rate is positive. The study shows that in 16 of the 47 countries, an increase in GDP is associated with an increase in fertility rate. This trend may be attributed to factors such as improved living standards, increased economic opportunities, and more financial security, which result in families having more children.
+
+Despite the value of the findings, there are limitations to the study. Missing information prevented conclusive results for two of the 47 countries studied. Additionally, this study only provides insights into the relationship between GDP and fertility rate and does not explore other factors that may influence population growth, such as social and cultural factors.
+
+In conclusion, the study highlights the complex relationship between economic development and population growth, as well as the need for further investigation to fully understand these trends. Understanding these trends is essential for policymakers who seek to implement effective economic and population policies. By providing evidence that there are both positive and negative correlations between GDP and fertility rate, this study provides a foundation for further research to build upon in the future.
