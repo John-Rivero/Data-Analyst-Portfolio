@@ -80,7 +80,7 @@ Lastly, due to incomplete information, conclusive results were not obtained in t
 
 Conclusion based on my analysis:
 
-The relationship between a country's Gross Domestic Product (GDP) and its fertility rate has been the subject of much research and debate over the years. This study, conducted across 47 Asian countries over a ten-year period from 2010 to 2020, provides valuable insights into the relationship between these two variables.
+This study, conducted across 47 Asian countries over a ten-year period from 2010 to 2020, provides valuable insights into the relationship between these two variables.
 
 The findings reveal that there is a negative correlation between GDP and fertility rate in the majority of the countries studied. Specifically, 29 of the 47 countries demonstrated a negative correlation, meaning that as a country's GDP increases, its fertility rate decreases. This trend has been observed in various regions around the world and has been attributed to factors such as improved access to family planning and education for women, which result in a decrease in the number of children per family.
 
