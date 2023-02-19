@@ -60,11 +60,17 @@ Date: February 17, 2023
 
 ## 4. Analyze
 
-- An SQL query is used to identify the top 10 countries with the highest combined GDP over a 10-year period, as well as the average inflation rate during that same time frame.
+- The analysis of GDP and fertility rate datasets between 2010 and 2020 is performed using R.
 
-![1  Analyze 10 highest total gdp](https://user-images.githubusercontent.com/81208412/219596265-bf9a2eb8-543b-4634-98ab-519407eac566.jpg)
+![1  Correlation GDP - Inflation Analysis Image](https://user-images.githubusercontent.com/81208412/219961977-37eb6322-c9b1-4353-b19d-753181220f74.jpg)
 
-Based on the result of the query, the United States is the most attractive country for investment, with a combined GDP of $209 trillion over a 10-year period and an average inflation rate of 2.20%. China ranks second, with a total GDP of $131.35 trillion and an average inflation rate of 2.61%, followed by Japan in third place with a total GDP of $57.12 trillion and an average inflation rate of 0.51%. Germany comes in fourth place with a GDP of $41.43 trillion and an average inflation rate of 1.58%. Lastly, the country with the best investment potential is the United Kingdom, with a GDP of $31.12 trillion and an inflation rate of 2.16%.
+![2  Correlation GDP - Inflation Analysis Result Image](https://user-images.githubusercontent.com/81208412/219961985-c75a2fc2-516a-4cdb-900c-f06253d785e7.jpg)
+
+Over a period of ten years spanning from 2010 to 2020 across 47 Asian countries, the research findings demonstrated that 29 of these countries displayed a negative relationship between their GDP and fertility rate. This indicates that as a nation's GDP increased, its fertility rate decreased. For example, China recorded a 58.57% upsurge in GDP while its fertility rate plummeted by 31.69% during this time frame.
+
+On the other hand, in 16 countries, there was a positive correlation observed between GDP and fertility rate, implying that an increase in a nation's GDP resulted in an increase in its fertility rate, and the converse was also true. Vietnam serves as a case in point, where there was a 57.64% GDP growth alongside a 3.07% fertility rate upswing.
+
+Lastly, due to incomplete information, conclusive results were not obtained in two countries.
 
 
 ## 5. Share
