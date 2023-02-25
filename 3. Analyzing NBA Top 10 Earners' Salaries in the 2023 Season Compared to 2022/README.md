@@ -2,9 +2,9 @@ Author: John Rivero
 
 Date: February 17, 2023
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
+[Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparisonDashboard/Dashboard1)
 
-[Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesStory_/Story1)
+[Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparison/Story1)
 
 
 ## The case study follows the six step data analysis process.
@@ -24,28 +24,25 @@ Date: February 17, 2023
 
 ## Scenario
 
-- An investor named Josh McDonald who is looking to expand his investment portfolio and is interested in investing in countries with a strong history of Gross Domestic Product (GDP) growth for the past 10 years. He has decided to use data analytic to identify which countries are the best to invest based on their 10 years GDP history.
+- A sports media company named All Sports is conducting research to identify the top 10 NBA players who earned the most money during the 2023 season. Additionally, they aim to gain insight into the percentage increase in earnings of these players from 2022 to 2023.. The company plans to use data analytics to gain insights into the trends and changes in earnings between the two seasons
 
 
 ## 1. Ask
 
- - Task: Evaluate the Gross Domestic Product (GDP) data and inflation rate for the past 10 years to determine the top 5 out of 10 most favorable countries for investment.
-
- - Primary Stakeholder: Josh McDonald
+ - Task: Conduct research to identify top 10 NBA players' earnings during 2023 season, and compare it to 2022 season.
+ 
+ - Primary Stakeholder: All Sports
 
 
 ## 2. Prepare
 
-- Data Source 1: (GDP) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
-               The GDP dataset has 1 CSV file, 65 Columns, and 271 Rows.
+- Data Source 1: The earnings data for NBA players in 2022 was scraped from the website [ESPN.com](http://www.espn.com/nba/salaries/_/year/2022) using the Python programming language.
 
-![2  GDP Spreadsheet Image](https://user-images.githubusercontent.com/81208412/219589204-fb67187a-70e5-4823-a29a-8165da4acaa7.jpg)
+- Data Source 2: The earnings data for NBA players in 2023 was scraped from the website [ESPN.com](http://www.espn.com/nba/salaries) using the Python programming language.
 
+![2022SeasonImage](https://user-images.githubusercontent.com/81208412/221361972-3c7b78a8-40e0-41f8-b1b7-3c582b7c827f.jpg)
 
-- Data Source 2: (Inflation) 61 years (1960 to 2021) from [The World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG)
-               The Inflation dataset has 1 CSV file, 65 Columns, and 271 Rows.
-
-![2  Inflation Spreadsheet Image](https://user-images.githubusercontent.com/81208412/219589224-48e4bad4-e664-418f-ade6-faea432308c3.jpg)
+![2023SeasonImage](https://user-images.githubusercontent.com/81208412/221361977-fad0ef5c-b538-4977-a0f1-8187ffef7d30.jpg)
 
 
 ## 3. Process
