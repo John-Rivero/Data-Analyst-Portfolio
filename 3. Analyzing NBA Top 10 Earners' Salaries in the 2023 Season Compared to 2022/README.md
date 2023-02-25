@@ -42,7 +42,7 @@ Date: February 17, 2023
 
 ![main Image](https://user-images.githubusercontent.com/81208412/221362249-44ff74d1-4a18-425e-a03f-fc117ab7e39c.jpg)
 
-- The NBA salary data for both 2022 and 2023 was exported to a CSV file, and the results are presented below.
+- The NBA salary data for both 2022 and 2023 were exported to a CSV file, and the results are presented below.
 
 ![2022SeasonImage](https://user-images.githubusercontent.com/81208412/221361972-3c7b78a8-40e0-41f8-b1b7-3c582b7c827f.jpg)
 
