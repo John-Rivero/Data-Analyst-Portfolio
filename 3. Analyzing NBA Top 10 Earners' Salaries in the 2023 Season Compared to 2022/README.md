@@ -24,12 +24,12 @@ Date: February 17, 2023
 
 ## Scenario
 
-- A sports media company named All Sports is conducting research to identify the top 10 NBA players who earned the most money during the 2023 season. Additionally, they aim to gain insight into the percentage increase in earnings of these players from 2022 to 2023.. The company plans to use data analytics to gain insights into the trends and changes in earnings between the two seasons
+- A sports media company named All Sports is conducting research to identify the top 9 NBA players who earned the most money during the 2023 season. Additionally, they aim to gain insight into the percentage increase in earnings of these players from 2022 to 2023.. The company plans to use data analytics to gain insights into the trends and changes in earnings between the two seasons
 
 
 ## 1. Ask
 
- - Task: Conduct research to identify top 10 NBA players' earnings during 2023 season, and compare it to 2022 season.
+ - Task: Conduct research to identify top 9 NBA players' earnings during 2023 season, and compare it to 2022 season.
  
  - Primary Stakeholder: All Sports
 
@@ -60,23 +60,23 @@ Date: February 17, 2023
 
 ## 4. Analyze
 
-- Python was utilized to perform an analysis on the earnings of the top 10 NBA players during the 2023 season, along with a comparison of their earnings to those in the 2022 season.
+- Python was utilized to perform an analysis on the earnings of the top 9 NBA players during the 2023 season, along with a comparison of their earnings to those in the 2022 season.
 
 ![SalaryAnalysisImage](https://user-images.githubusercontent.com/81208412/221362786-1f6619f9-1a5c-49b7-88f8-0723222b554c.jpg)
 
 ![NBASalaryImage](https://user-images.githubusercontent.com/81208412/221362793-76f0ff8c-d874-4055-aa36-0974bc4413cd.jpg)
 
-After conducting the analysis, the following top earners during the 2023 NBA season were identified, along with the percentage increase in their salaries from the 2022 season: Stephen Curry with a 5% increase, Russell Westbrook with a 6.45% increase, Lebron James with an 8% increase, Kevin Durant with a 5% increase (the lowest within the top 10), Bradley Beal with the highest increase of 28.33%, and Damian Lillard, Giannis Antetokounmpo, Kawhi Leonard, and Paul George, all with an 8% increase in their salaries.
+After conducting the analysis, the following top earners during the 2023 NBA season were identified, along with the percentage increase in their salaries from the 2022 season: Stephen Curry with a 5% increase, Russell Westbrook with a 6.45% increase, Lebron James with an 8% increase, Kevin Durant with a 5% increase (the lowest within the top 9), Bradley Beal with the highest increase of 28.33%, and Damian Lillard, Giannis Antetokounmpo, Kawhi Leonard, and Paul George, all with an 8% increase in their salaries.
 
 
 ## 5. Share
 
-[2022 vs 2023: NBA Top 10 Earners' Salary Comparison Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparisonDashboard/Dashboard1)
+[2022 vs 2023: NBA Top 9 Earners' Salary Comparison Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparisonDashboard/Dashboard1)
 
 ![2022 vs 2023 NBA Top 10 Earners' Salary Comparison Dashboard](https://user-images.githubusercontent.com/81208412/221363554-d92fc3c3-6cb5-4604-b1bd-68c4896b02ac.png)
 
 
-[2022 vs 2023: NBA Top 10 Earners' Salary Comparison Presentation in Tableau](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparison/Story1)
+[2022 vs 2023: NBA Top 9 Earners' Salary Comparison Presentation in Tableau](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparison/Story1)
 
 ![2022 vs 2023 NBA Top 10 Earners' Salary Comparison Story](https://user-images.githubusercontent.com/81208412/221363560-0f474fb9-ffbf-452d-85c0-f5467978063e.png)
 
