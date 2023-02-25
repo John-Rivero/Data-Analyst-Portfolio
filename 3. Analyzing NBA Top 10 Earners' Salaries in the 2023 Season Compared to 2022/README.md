@@ -40,6 +40,10 @@ Date: February 17, 2023
 
 - Data Source 2: The earnings data for NBA players in 2023 was scraped from the website [ESPN.com](http://www.espn.com/nba/salaries) using the Python programming language.
 
+![main Image](https://user-images.githubusercontent.com/81208412/221362249-44ff74d1-4a18-425e-a03f-fc117ab7e39c.jpg)
+
+- The NBA salary data for both 2022 and 2023 was exported to a CSV file, and the results are presented below.
+
 ![2022SeasonImage](https://user-images.githubusercontent.com/81208412/221361972-3c7b78a8-40e0-41f8-b1b7-3c582b7c827f.jpg)
 
 ![2023SeasonImage](https://user-images.githubusercontent.com/81208412/221361977-fad0ef5c-b538-4977-a0f1-8187ffef7d30.jpg)
@@ -47,25 +51,20 @@ Date: February 17, 2023
 
 ## 3. Process
 
-- The CSV files containing GDP and inflation data have been extensively cleaned and are now prepared for import into an SQL server for further analysis.
+- The CSV files containing data for both 2022 and 2023 Season have been extensively cleaned and are now prepared for import into Jupyter notebook for further analysis.
 
-![2  GDP Processed Image](https://user-images.githubusercontent.com/81208412/219591776-81e8f5b6-1acd-40bc-a64d-d3a4631c9f2f.jpg)
+![2022SeasonProcessedImage](https://user-images.githubusercontent.com/81208412/221362591-8be7754b-832a-4efb-ae9c-dc8c3650468f.jpg)
 
-![2  Inflation Processed Image](https://user-images.githubusercontent.com/81208412/219591804-b046cd5c-70dc-4ea0-8504-e64a9b78598f.jpg)
-
-
-- Tables have been created for both inflation and GDP data to facilitate the import of the cleaned CSV files.
-
-![3  Create GDP Table](https://user-images.githubusercontent.com/81208412/219590392-a0a8ad2d-d2be-430d-af65-6019a8a277b2.jpg)
-
-![3  Create Inflation Table](https://user-images.githubusercontent.com/81208412/219590422-f0128f1f-43a6-44c9-827d-2e6ac33312b8.jpg)
+![2023SeasonProcessedImage](https://user-images.githubusercontent.com/81208412/221362594-9e28eebf-53cf-41a4-9cdc-959d5b374ed9.jpg)
 
 
 ## 4. Analyze
 
-- An SQL query is used to identify the top 10 countries with the highest combined GDP over a 10-year period, as well as the average inflation rate during that same time frame.
+- Python was utilized to perform an analysis on the earnings of the top 10 NBA players during the 2023 season, along with a comparison of their earnings to those in the 2022 season.
 
-![1  Analyze 10 highest total gdp](https://user-images.githubusercontent.com/81208412/219596265-bf9a2eb8-543b-4634-98ab-519407eac566.jpg)
+![SalaryAnalysisImage](https://user-images.githubusercontent.com/81208412/221362786-1f6619f9-1a5c-49b7-88f8-0723222b554c.jpg)
+
+![NBASalaryImage](https://user-images.githubusercontent.com/81208412/221362793-76f0ff8c-d874-4055-aa36-0974bc4413cd.jpg)
 
 Based on the result of the query, the United States is the most attractive country for investment, with a combined GDP of $209 trillion over a 10-year period and an average inflation rate of 2.20%. China ranks second, with a total GDP of $131.35 trillion and an average inflation rate of 2.61%, followed by Japan in third place with a total GDP of $57.12 trillion and an average inflation rate of 0.51%. Germany comes in fourth place with a GDP of $41.43 trillion and an average inflation rate of 1.58%. Lastly, the country with the best investment potential is the United Kingdom, with a GDP of $31.12 trillion and an inflation rate of 2.16%.
 
