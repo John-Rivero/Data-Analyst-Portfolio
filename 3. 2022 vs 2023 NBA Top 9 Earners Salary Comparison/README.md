@@ -1,6 +1,8 @@
-Author: John Rivero
+## Title: Analyzing NBA Top 9 Earners' Salaries in the 2023 Season Compared to 2022: Website Scraping, Analytics with Python, and Visualization in Tableau
 
-Date: February 25, 2023
+## Author: John Rivero
+
+## Date: February 25, 2023
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop9EarnersSalaryComparisonDashboard/Dashboard1?publish=yes)
 
