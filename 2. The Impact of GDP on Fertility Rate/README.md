@@ -1,6 +1,8 @@
-Author: John Rivero
+## Title: The Impact of GDP on Fertility Rate: A Quantitative Analysis of National Wealth and Population Growth in R and Visualization in Tableau
 
-Date: February 19, 2023
+## Author: John Rivero
+
+## Date: February 19, 2023
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/GDPFertilityRatecorrelation/Dashboard1?publish=yes)
 
