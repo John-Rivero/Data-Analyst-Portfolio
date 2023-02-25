@@ -18,3 +18,11 @@
 - In this project, R is employed to examine datasets and determine whether a correlation exists between GDP and fertility rate.
 
 - Use Tableau to visualize whether a correlation exists between GDP and fertility rate.
+
+
+## [3. Analyzing NBA Top 10 Earners' Salaries in the 2023 Season Compared to 2022: Website Scraping, Analytics with Python, and Visualization in Tableau](https://github.com/John-Rivero/Data-Analyst-Portfolio/tree/main/3.%20Analyzing%20NBA%20Top%2010%20Earners'%20Salaries%20in%20the%202023%20Season%20Compared%20to%202022)
+- This project examines the salary comparison data between the top NBA earners in the 2023 season and their earnings in the 2022 season.
+
+- This project utilized Python for web scraping the required data and for analyzing the percentage increase in salary between 2022 and 2023.
+
+- Use Tableau to visualize the percentage increase in salary between 2022 and 2023.
