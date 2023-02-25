@@ -2,9 +2,9 @@ Author: John Rivero
 
 Date: February 25, 2023
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparisonDashboard/Dashboard1)
+[Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop9EarnersSalaryComparisonDashboard/Dashboard1?publish=yes)
 
-[Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparison/Story1)
+[Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop9EarnersSalaryComparison/Story1?publish=yes)
 
 
 ## The case study follows the six step data analysis process.
@@ -71,11 +71,11 @@ After conducting the analysis, the following top earners during the 2023 NBA sea
 
 ## 5. Share
 
-[2022 vs 2023: NBA Top 9 Earners' Salary Comparison Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparisonDashboard/Dashboard1)
+[2022 vs 2023: NBA Top 9 Earners' Salary Comparison Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop9EarnersSalaryComparisonDashboard/Dashboard1?publish=yes)
 
 ![Dashboard 1](https://user-images.githubusercontent.com/81208412/221365440-2a5bcaac-f8a3-4feb-9100-26de307eeee0.png)
 
-[2022 vs 2023: NBA Top 9 Earners' Salary Comparison Presentation in Tableau](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparison/Story1)
+[2022 vs 2023: NBA Top 9 Earners' Salary Comparison Presentation in Tableau](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop9EarnersSalaryComparison/Story1?publish=yes)
 
 ![Story 1](https://user-images.githubusercontent.com/81208412/221365442-0cea5a10-4da5-4443-b0d4-3fd31f9ef267.png)
 
