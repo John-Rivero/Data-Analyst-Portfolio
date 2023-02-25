@@ -1,8 +1,8 @@
-Title: Top 5 Countries with the Best Investment Potential: An Analysis of GDP and Inflation Rates in SQL and Visualization in Tableau
+## Title: Top 5 Countries with the Best Investment Potential: An Analysis of GDP and Inflation Rates in SQL and Visualization in Tableau
 
-Author: John Rivero
+## Author: John Rivero
 
-Date: February 17, 2023
+## Date: February 17, 2023
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
 
