@@ -2,7 +2,7 @@ Author: John Rivero
 
 Date: February 17, 2023
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/GDPFertilityRatecorrelation/Dashboard1?publish=yes)
+[Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
 
 [Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesStory_/Story1)
 
