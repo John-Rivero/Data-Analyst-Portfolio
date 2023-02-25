@@ -5,6 +5,8 @@
 
 - [2. The Impact of GDP on Fertility Rate: A Quantitative Analysis of National Wealth and Population Growth in R and Visualization in Tableau](#2-The-Impact-of-GDP-on-Fertility-Rate-A-Quantitative-Analysis-of-National-Wealth-and-Population-Growth-in-R-and-Visualization-in-Tableau)
 
+- [3. Analyzing NBA Top 10 Earners' Salaries in the 2023 Season Compared to 2022: Website Scraping, Analytics with Python, and Visualization in Tableau](#3-Analyzing-NBA-Top-10-Earners-Salaries-in-the-2023-Season-Compared-to-2022-Website-Scraping-Analytics-with-Python-and-Visualization-in-Tableau)
+
 ## [1. Top 5 Countries with the Best Investment Potential: An Analysis of GDP and Inflation Rates in SQL and Visualization in Tableau](https://github.com/John-Rivero/Data-Analyst-Portfolio/tree/main/1.%20Countries'%20Yearly%20GDP%20Analysis)
 - This project is an analysis of datasets of countries' yearly GDP and inflation rate, between 2011 - 2021
 
