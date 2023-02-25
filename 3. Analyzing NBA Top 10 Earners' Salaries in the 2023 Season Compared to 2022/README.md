@@ -66,19 +66,20 @@ Date: February 17, 2023
 
 ![NBASalaryImage](https://user-images.githubusercontent.com/81208412/221362793-76f0ff8c-d874-4055-aa36-0974bc4413cd.jpg)
 
-Based on the result of the query, the United States is the most attractive country for investment, with a combined GDP of $209 trillion over a 10-year period and an average inflation rate of 2.20%. China ranks second, with a total GDP of $131.35 trillion and an average inflation rate of 2.61%, followed by Japan in third place with a total GDP of $57.12 trillion and an average inflation rate of 0.51%. Germany comes in fourth place with a GDP of $41.43 trillion and an average inflation rate of 1.58%. Lastly, the country with the best investment potential is the United Kingdom, with a GDP of $31.12 trillion and an inflation rate of 2.16%.
+After conducting the analysis, the following top earners during the 2023 NBA season were identified, along with the percentage increase in their salaries from the 2022 season: Stephen Curry with a 5% increase, Russell Westbrook with a 6.45% increase, Lebron James with an 8% increase, Kevin Durant with a 5% increase (the lowest within the top 10), Bradley Beal with the highest increase of 28.33%, and Damian Lillard, Giannis Antetokounmpo, Kawhi Leonard, and Paul George, all with an 8% increase in their salaries.
 
 
 ## 5. Share
 
-[GDP and Inflation Analysis Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
+[2022 vs 2023: NBA Top 10 Earners' Salary Comparison Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparisonDashboard/Dashboard1)
 
-![Dashboard 1](https://user-images.githubusercontent.com/81208412/219598626-c8beecb5-1553-4256-9f6a-640414c91e94.png)
+![2022 vs 2023 NBA Top 10 Earners' Salary Comparison Dashboard](https://user-images.githubusercontent.com/81208412/221363554-d92fc3c3-6cb5-4604-b1bd-68c4896b02ac.png)
 
 
-[10 countries with the greatest combined GDP over a period of 10 years presentation in Tableau](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesStory_/Story1)
+[2022 vs 2023: NBA Top 10 Earners' Salary Comparison Presentation in Tableau](https://public.tableau.com/app/profile/john.r6470/viz/2022vs2023NBATop10EarnersSalaryComparison/Story1)
 
-![Story 1](https://user-images.githubusercontent.com/81208412/219680747-99a46b8a-4b79-4211-acaf-43bd795592fb.png)
+![2022 vs 2023 NBA Top 10 Earners' Salary Comparison Story](https://user-images.githubusercontent.com/81208412/221363560-0f474fb9-ffbf-452d-85c0-f5467978063e.png)
+
 
 
 ## 6. Act
