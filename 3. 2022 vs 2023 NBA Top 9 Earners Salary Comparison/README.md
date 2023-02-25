@@ -26,7 +26,7 @@
 
 ## Scenario
 
-- A sports media company named All Sports is conducting research to identify the top 9 NBA players who earned the most money during the 2023 season. Additionally, they aim to gain insight into the percentage increase in earnings of these players from 2022 to 2023.. The company plans to use data analytics to gain insights into the trends and changes in earnings between the two seasons
+- A sports media company named All Sports is conducting research to identify the top 9 NBA players who earned the most money during the 2023 season. Additionally, they aim to gain insight into the percentage increase in earnings of these players from 2022 to 2023. The company plans to use data analytics to gain insights into the trends and changes in earnings between the two seasons
 
 
 ## 1. Ask
