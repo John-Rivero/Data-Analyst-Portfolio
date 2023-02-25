@@ -1,7 +1,11 @@
 Date: February 17, 2023
 [Tableau Dashboard](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesDashboard_/Dashboard1)
+
+
 [Tableau Story Presentation to Stakeholder](https://public.tableau.com/app/profile/john.r6470/viz/Top10countrieswiththehighestGDPforinvestmentopportunitiesStory_/Story1)
-## The case study follows the six step data analysis process.
+
+
+# The case study follows the six step data analysis process.
  [Ask](#1-Ask)
  
  [Prepare](#2-Prepare)
@@ -13,6 +17,8 @@ Date: February 17, 2023
  [Share](#5-Share)
  
  [Act](#6-Act)
+ 
+ 
 ## Scenario
 - An investor named Josh McDonald who is looking to expand his investment portfolio and is interested in investing in countries with a strong history of Gross Domestic Product (GDP) growth for the past 10 years. He has decided to use data analytic to identify which countries are the best to invest based on their 10 years GDP history.
 ## 1. Ask
